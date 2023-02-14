@@ -2,7 +2,7 @@
 
 My name's Aleix and I'm a full stack web developer and aspiring artist who focuses on clean, reusable code and who always prioritizes user-friendly, intuitive and beautiful design. This is some sort of playground where you can see how I try to bring some ideas to life. Enjoy! :grin:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleix-abuli&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleix-abuli&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aleix-abuli&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleix-abuli&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ### Main stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
